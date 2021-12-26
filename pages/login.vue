@@ -1,8 +1,6 @@
 <template>
     <div class="h-screen flex justify-center items-center">
-        <div
-          class="hidden md:block lg:w-1/3 bg-white h-full auth-background rounded-tr-lg rounded-br-lg"
-        ></div>
+        <div class="hidden md:block lg:w-1/3 bg-white h-full auth-background rounded-tr-lg rounded-br-lg"></div>
         <div class="w-auto md:w-2/4 lg:w-2/3 flex justify-center items-center">
           <div class="w-full lg:w-1/2 px-10 lg:px-0">
             <h2 class="font-normal mb-6 text-3xl text-white">
