@@ -7,29 +7,22 @@
               <li>
                 <nuxt-link
                   class="text-white hover:text-teal-500 text-lg px-4 py-3"
-                  to="/">Home</nuxt-link
-                >
+                  to="/">Home</nuxt-link>
               </li>
               <li>
                 <a
                   class="text-white hover:text-teal-500 text-lg px-4 py-3"
-                  to="#"
-                  >Project</a
-                >
+                  to="#">Project</a>
               </li>
               <li>
                 <a
                   class="text-white hover:text-teal-500 text-lg px-4 py-3"
-                  to="#"
-                  >Features</a
-                >
+                  to="#">Features</a>
               </li>
               <li>
                 <a
                   class="text-white hover:text-teal-500 text-lg px-4 py-3"
-                  to="#"
-                  >Success Stories</a
-                >
+                  to="#">Success Stories</a>
               </li>
             </ul>
             <ul class="flex ml-auto items-center mt-2">
