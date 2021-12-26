@@ -12,17 +12,17 @@
               <li>
                 <a
                   class="text-white hover:text-teal-500 text-lg px-4 py-3"
-                  to="#">Project</a>
+                  href="#">Project</a>
               </li>
               <li>
                 <a
                   class="text-white hover:text-teal-500 text-lg px-4 py-3"
-                  to="#">Features</a>
+                  href="#">Features</a>
               </li>
               <li>
                 <a
                   class="text-white hover:text-teal-500 text-lg px-4 py-3"
-                  to="#">Success Stories</a>
+                  href="#">Success Stories</a>
               </li>
             </ul>
             <ul class="flex ml-auto items-center mt-2">
